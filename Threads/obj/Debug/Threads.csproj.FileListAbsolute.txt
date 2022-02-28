@@ -1,0 +1,8 @@
+C:\Users\Artur\source\repos\LearningOperators\Threads\bin\Debug\Threads.exe.config
+C:\Users\Artur\source\repos\LearningOperators\Threads\bin\Debug\Threads.exe
+C:\Users\Artur\source\repos\LearningOperators\Threads\bin\Debug\Threads.pdb
+C:\Users\Artur\source\repos\LearningOperators\Threads\obj\Debug\Threads.csproj.AssemblyReference.cache
+C:\Users\Artur\source\repos\LearningOperators\Threads\obj\Debug\Threads.csproj.SuggestedBindingRedirects.cache
+C:\Users\Artur\source\repos\LearningOperators\Threads\obj\Debug\Threads.csproj.CoreCompileInputs.cache
+C:\Users\Artur\source\repos\LearningOperators\Threads\obj\Debug\Threads.exe
+C:\Users\Artur\source\repos\LearningOperators\Threads\obj\Debug\Threads.pdb

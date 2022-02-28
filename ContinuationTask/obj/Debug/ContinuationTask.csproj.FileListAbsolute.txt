@@ -1,0 +1,8 @@
+C:\Users\Artur\source\repos\LearningOperators\ContinuationTask\obj\Debug\ContinuationTask.csproj.AssemblyReference.cache
+C:\Users\Artur\source\repos\LearningOperators\ContinuationTask\obj\Debug\ContinuationTask.csproj.SuggestedBindingRedirects.cache
+C:\Users\Artur\source\repos\LearningOperators\ContinuationTask\obj\Debug\ContinuationTask.csproj.CoreCompileInputs.cache
+C:\Users\Artur\source\repos\LearningOperators\ContinuationTask\bin\Debug\ContinuationTask.exe.config
+C:\Users\Artur\source\repos\LearningOperators\ContinuationTask\bin\Debug\ContinuationTask.exe
+C:\Users\Artur\source\repos\LearningOperators\ContinuationTask\bin\Debug\ContinuationTask.pdb
+C:\Users\Artur\source\repos\LearningOperators\ContinuationTask\obj\Debug\ContinuationTask.exe
+C:\Users\Artur\source\repos\LearningOperators\ContinuationTask\obj\Debug\ContinuationTask.pdb

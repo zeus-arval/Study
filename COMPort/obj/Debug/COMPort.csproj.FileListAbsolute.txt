@@ -1,0 +1,8 @@
+C:\Users\Artur\source\repos\LearningOperators\COMPort\bin\Debug\COMPort.exe.config
+C:\Users\Artur\source\repos\LearningOperators\COMPort\bin\Debug\COMPort.exe
+C:\Users\Artur\source\repos\LearningOperators\COMPort\bin\Debug\COMPort.pdb
+C:\Users\Artur\source\repos\LearningOperators\COMPort\obj\Debug\COMPort.csproj.AssemblyReference.cache
+C:\Users\Artur\source\repos\LearningOperators\COMPort\obj\Debug\COMPort.csproj.SuggestedBindingRedirects.cache
+C:\Users\Artur\source\repos\LearningOperators\COMPort\obj\Debug\COMPort.csproj.CoreCompileInputs.cache
+C:\Users\Artur\source\repos\LearningOperators\COMPort\obj\Debug\COMPort.exe
+C:\Users\Artur\source\repos\LearningOperators\COMPort\obj\Debug\COMPort.pdb

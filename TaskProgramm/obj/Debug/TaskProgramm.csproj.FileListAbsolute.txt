@@ -1,0 +1,8 @@
+C:\Users\Artur\source\repos\LearningOperators\TaskProgramm\bin\Debug\TaskProgramm.exe.config
+C:\Users\Artur\source\repos\LearningOperators\TaskProgramm\bin\Debug\TaskProgramm.exe
+C:\Users\Artur\source\repos\LearningOperators\TaskProgramm\bin\Debug\TaskProgramm.pdb
+C:\Users\Artur\source\repos\LearningOperators\TaskProgramm\obj\Debug\TaskProgramm.csproj.AssemblyReference.cache
+C:\Users\Artur\source\repos\LearningOperators\TaskProgramm\obj\Debug\TaskProgramm.csproj.SuggestedBindingRedirects.cache
+C:\Users\Artur\source\repos\LearningOperators\TaskProgramm\obj\Debug\TaskProgramm.csproj.CoreCompileInputs.cache
+C:\Users\Artur\source\repos\LearningOperators\TaskProgramm\obj\Debug\TaskProgramm.exe
+C:\Users\Artur\source\repos\LearningOperators\TaskProgramm\obj\Debug\TaskProgramm.pdb

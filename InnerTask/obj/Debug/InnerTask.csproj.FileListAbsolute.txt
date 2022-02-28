@@ -1,0 +1,8 @@
+C:\Users\Artur\source\repos\LearningOperators\InnerTask\bin\Debug\InnerTask.exe.config
+C:\Users\Artur\source\repos\LearningOperators\InnerTask\bin\Debug\InnerTask.exe
+C:\Users\Artur\source\repos\LearningOperators\InnerTask\bin\Debug\InnerTask.pdb
+C:\Users\Artur\source\repos\LearningOperators\InnerTask\obj\Debug\InnerTask.csproj.AssemblyReference.cache
+C:\Users\Artur\source\repos\LearningOperators\InnerTask\obj\Debug\InnerTask.csproj.SuggestedBindingRedirects.cache
+C:\Users\Artur\source\repos\LearningOperators\InnerTask\obj\Debug\InnerTask.csproj.CoreCompileInputs.cache
+C:\Users\Artur\source\repos\LearningOperators\InnerTask\obj\Debug\InnerTask.exe
+C:\Users\Artur\source\repos\LearningOperators\InnerTask\obj\Debug\InnerTask.pdb

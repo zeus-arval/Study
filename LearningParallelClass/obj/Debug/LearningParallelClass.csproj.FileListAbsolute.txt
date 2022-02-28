@@ -1,0 +1,8 @@
+C:\Users\Artur\source\repos\LearningOperators\LearningParallelClass\bin\Debug\LearningParallelClass.exe.config
+C:\Users\Artur\source\repos\LearningOperators\LearningParallelClass\bin\Debug\LearningParallelClass.exe
+C:\Users\Artur\source\repos\LearningOperators\LearningParallelClass\bin\Debug\LearningParallelClass.pdb
+C:\Users\Artur\source\repos\LearningOperators\LearningParallelClass\obj\Debug\LearningParallelClass.csproj.AssemblyReference.cache
+C:\Users\Artur\source\repos\LearningOperators\LearningParallelClass\obj\Debug\LearningParallelClass.csproj.SuggestedBindingRedirects.cache
+C:\Users\Artur\source\repos\LearningOperators\LearningParallelClass\obj\Debug\LearningParallelClass.csproj.CoreCompileInputs.cache
+C:\Users\Artur\source\repos\LearningOperators\LearningParallelClass\obj\Debug\LearningParallelClass.exe
+C:\Users\Artur\source\repos\LearningOperators\LearningParallelClass\obj\Debug\LearningParallelClass.pdb

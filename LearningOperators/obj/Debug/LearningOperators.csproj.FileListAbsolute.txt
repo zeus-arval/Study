@@ -1,0 +1,8 @@
+C:\Users\Artur\source\repos\LearningOperators\LearningOperators\bin\Debug\LearningOperators.exe.config
+C:\Users\Artur\source\repos\LearningOperators\LearningOperators\bin\Debug\LearningOperators.exe
+C:\Users\Artur\source\repos\LearningOperators\LearningOperators\bin\Debug\LearningOperators.pdb
+C:\Users\Artur\source\repos\LearningOperators\LearningOperators\obj\Debug\LearningOperators.csproj.AssemblyReference.cache
+C:\Users\Artur\source\repos\LearningOperators\LearningOperators\obj\Debug\LearningOperators.csproj.SuggestedBindingRedirects.cache
+C:\Users\Artur\source\repos\LearningOperators\LearningOperators\obj\Debug\LearningOperators.csproj.CoreCompileInputs.cache
+C:\Users\Artur\source\repos\LearningOperators\LearningOperators\obj\Debug\LearningOperators.exe
+C:\Users\Artur\source\repos\LearningOperators\LearningOperators\obj\Debug\LearningOperators.pdb

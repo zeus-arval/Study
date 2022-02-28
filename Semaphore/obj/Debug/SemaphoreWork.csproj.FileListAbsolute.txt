@@ -1,0 +1,8 @@
+C:\Users\Artur\source\repos\LearningOperators\Semaphore\bin\Debug\Semaphore.exe.config
+C:\Users\Artur\source\repos\LearningOperators\Semaphore\bin\Debug\Semaphore.exe
+C:\Users\Artur\source\repos\LearningOperators\Semaphore\bin\Debug\Semaphore.pdb
+C:\Users\Artur\source\repos\LearningOperators\Semaphore\obj\Debug\SemaphoreWork.csproj.AssemblyReference.cache
+C:\Users\Artur\source\repos\LearningOperators\Semaphore\obj\Debug\SemaphoreWork.csproj.SuggestedBindingRedirects.cache
+C:\Users\Artur\source\repos\LearningOperators\Semaphore\obj\Debug\SemaphoreWork.csproj.CoreCompileInputs.cache
+C:\Users\Artur\source\repos\LearningOperators\Semaphore\obj\Debug\Semaphore.exe
+C:\Users\Artur\source\repos\LearningOperators\Semaphore\obj\Debug\Semaphore.pdb
